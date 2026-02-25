@@ -48,12 +48,4 @@ def view(idmy:int):
     for details in emp:
         if details['id']==idmy:
             return details
-
-
-
-
-
-
-
-
-
+        
